@@ -3,7 +3,7 @@
 # Hi, I’m Christianie👩‍💻👋
 I'm currently studying applied robotics in Norway. I have a passion for software development and open-source projects. Here's a bit more about me:
 
-### Technologies & Tools🔧 
+## Technologies & Tools🔧 
 
 #### Actively using:
 <a href="https://python.org/"><img src="external_files/python_kurs_thumb.png" alt="Python" width="150">
@@ -22,7 +22,7 @@ I'm currently studying applied robotics in Norway. I have a passion for software
   <a href="https://rust-lang.org/"><img src="external_files/0_ywP7NFzW-8ZWilwJ.png" alt="Rust" width="100">
 </div>
 
-### Activity📈 
+## Activity📈 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=christianietorres&show_icons=true&theme=radical)
 
 ![Profile Banner](external_files/pink-sparkle-lights-girly-background-header.jpg-nggid044431-ngg0dyn-1280x375x100-00f0w010c010r110f110r010t010.jpg)
