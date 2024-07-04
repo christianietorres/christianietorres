@@ -1,7 +1,7 @@
 ![Profile Banner](external_files/pink-sparkle-lights-girly-background-header.jpg-nggid044431-ngg0dyn-1280x375x100-00f0w010c010r110f110r010t010.jpg)
 
 # Hi, I’m Christianie👩‍💻👋
-I'm currently studying applied robotics in Norway. I have a passion for software development and open-source projects. Here's a bit more about me:
+I'm currently studying applied robotics in Norway🤖 I have a passion for software development and open-source projects💕
 
 ## Technologies & Tools🔧 
 
