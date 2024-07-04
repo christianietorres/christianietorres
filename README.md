@@ -21,4 +21,6 @@ I'm currently studying applied robotics in Norway. I have a passion for software
 ## GitHub Stats📈 
 ![Christianie's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianietorres&show_icons=true&theme=radical)
 
+![Profile Banner](external_files/pink-sparkle-lights-girly-background-header.jpg-nggid044431-ngg0dyn-1280x375x100-00f0w010c010r110f110r010t010.jpg)
+
 
